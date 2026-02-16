@@ -21,6 +21,13 @@ In the intial data preperation/cleaning phase, I performed the following tasks.
 3. Corrected missing values
 4. Formatting
 
+
+
+Used the following formula to create age brackets to improve clarity and readability of data visualizations. 
+
+![age bracket formula](https://github.com/user-attachments/assets/7e728f2a-af24-4c21-8da0-4f1581c4b156)
+
+
 ### Exploratory Data Analysis (EDA)
 
 - What are the overall sales trends?
@@ -29,6 +36,10 @@ In the intial data preperation/cleaning phase, I performed the following tasks.
 ### Results/Findings
 
 
+### Dashboard & Visualizations
+
+
+![Dashboard](https://github.com/user-attachments/assets/0e977c28-3b18-42b4-ba4e-19565ff1c42b)
 
 
 
