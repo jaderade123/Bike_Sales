@@ -48,6 +48,9 @@ Leading age related demographic in bike purchasing was Middle Aged (31-54)
 
 ![age pivot table](https://github.com/user-attachments/assets/8b9d0926-3bd4-4f2a-a307-d0996444fc3c)
 
+Parents of one or more children are more likely to purchase a bike. 
+
+![parent bike purchases](https://github.com/user-attachments/assets/5aa6848d-6162-4b18-b164-0ed272f514c0)
 
 
 
