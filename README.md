@@ -12,9 +12,9 @@ Sales Data: The primary dataset used for this analysis is the "bike_buyers.csv" 
 
 - Excel - Data cleaning, data organizing, analysis, visualization, dashboard
 
-### Data Cleaning/Preperation
+### Data Cleaning/Preparation
 
-In the intial data preperation/cleaning phase, I performed the following tasks.
+In the intial data preparation/cleaning phase, I performed the following tasks.
 
 1. Removed duplicates
 2. Replaced names to increase readability
