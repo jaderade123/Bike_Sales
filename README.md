@@ -33,13 +33,20 @@ Used the following formula to create age brackets to improve clarity and readabi
 - What are the overall sales trends?
 - Which demographic leads in bike purchases?
 
-### Results/Findings
-
 
 ### Dashboard & Visualizations
 
+Dashboard with filters for marital status, region, and education level.
 
 ![Dashboard](https://github.com/user-attachments/assets/0e977c28-3b18-42b4-ba4e-19565ff1c42b)
+
+Occupation demographics bike purchases.
+
+![occupation pivot](https://github.com/user-attachments/assets/6e6cef9e-522a-4b52-ac34-86ad8bb96504)
+
+Leading age related demographic in bike purchasing was Middle Aged (31-54)
+
+![age pivot table](https://github.com/user-attachments/assets/8b9d0926-3bd4-4f2a-a307-d0996444fc3c)
 
 
 
