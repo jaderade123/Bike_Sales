@@ -23,9 +23,14 @@ In the intial data preparation/cleaning phase, I performed the following tasks.
 
 
 
-Used the following formula to create age brackets to improve clarity and readability of data visualizations. 
+The following formula to create age brackets to improve clarity and readability of data visualizations. 
 
 ![age bracket formula](https://github.com/user-attachments/assets/7e728f2a-af24-4c21-8da0-4f1581c4b156)
+
+This formula was used to create a new column indicating whether the customer was a parent/not parent in order to create a pie chart visualzation with better readability. 
+
+![parent formula](https://github.com/user-attachments/assets/dc80f1a2-3f63-4476-97e1-18d6d39c33f4)
+
 
 
 ### Exploratory Data Analysis (EDA)
